@@ -1,6 +1,11 @@
 # puppet-forge-php-api
 A PHP interface to the Puppet Forge REST API
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/indiana-university/puppet-forge-api-php/PHP%20Composer?style=flat-square)
+![Travis (.org)](https://img.shields.io/travis/indiana-university/puppet-forge-api-php?style=flat-square)
+![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/indiana-university/puppet-forge-api-php?style=flat-square)
+![Packagist](https://img.shields.io/packagist/l/indiana-university/puppet-forge-api-php?style=flat-square)
+
 ## Requirements
 This library requires at least PHP 7.3
 
