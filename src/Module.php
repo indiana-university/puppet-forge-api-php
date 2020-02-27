@@ -97,7 +97,7 @@ class Module
         string $reason
     ): bool {
         try {
-            $reply =  $this->client->request(
+            $reply = $this->client->request(
                 'DELETE',
                 self::PATH . $this->name,
                 [
