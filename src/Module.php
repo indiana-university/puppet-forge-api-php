@@ -111,6 +111,7 @@ class Module
                 return true;
             }
         } catch (ClientException $e) {
+            // This is empty so that we can trap errors and return a boolean
         }
         return false;
     }
